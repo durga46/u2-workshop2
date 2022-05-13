@@ -1,6 +1,6 @@
 ### NAME : DurgaDevi P
 ### REG NO : 212220230015
-# <p align="center"> WORKSHOP</p>
+# <p align="center"> WORKSHOP-2</p>
 ## AIM:
 To create a Welcome should be in Center Alignment Font Color: blue, in Android Studio.
 
